@@ -1,0 +1,4 @@
+[[redirects]]
+from = "/*"
+to = "/stranica.html"
+status = 200
